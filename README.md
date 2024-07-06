@@ -5,7 +5,6 @@
 - ⚡ Fun fact: I use spaces over tabs🤫  
 
 <br/>  
-
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
 
@@ -49,7 +48,7 @@
 <br/>  
 
 ## Connect with me  
-<div align="center">
+<div align="left">
 <a href="https://github.com/mudasirghouri" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
