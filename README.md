@@ -1,4 +1,4 @@
-## <div align="center">I'm Mudasir Ahmad Ghouri!, Full Stack Software Developer grinding hard to make something cool 🔥</div>  
+## <div align="left">I'm Mudasir Ahmad Ghouri, Full Stack Software Developer grinding hard to make something cool 🔥</div>  
   
 - 🌱 I’m currently learning NestJs and MongoDB  
 - ❓ Ask me about anything related to MERN stack and related technologies  
