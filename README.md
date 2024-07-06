@@ -4,7 +4,8 @@
 - ❓ Ask me about anything related to MERN stack and related technologies  
 - ⚡ Fun fact: I use spaces over tabs🤫  
 
-<br/>  
+<br/> 
+
 ## My Skill Set
 
 <table><tr><td valign="top" width="50%">
